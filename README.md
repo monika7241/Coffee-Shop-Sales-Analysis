@@ -1,6 +1,7 @@
 # Coffee-Shop-Sales-Analysis
 
-☕ Sales Dashboard – Beverage Chain Analytics
+## ☕ Sales Dashboard – Beverage Chain Analytics
+
 📊 Overview
 This project is an interactive Excel-based dashboard designed to analyze transaction data for a beverage chain. The dashboard helps identify sales patterns, peak hours, top-performing products, and store performance. It provides stakeholders with valuable insights to make data-driven decisions regarding operations, marketing, and product strategy.
 
